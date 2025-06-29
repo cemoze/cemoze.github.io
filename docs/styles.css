@@ -1,1 +1,40 @@
-/* css styles */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  max-width: 820px;
+  margin: auto;
+  line-height: 1.7;
+  padding: 2rem 1rem;
+  background-color: #f9f9f9;
+}
+
+/* Default link styles (for body links) */
+a {
+  color: #1d70b8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #222;
+}
+
+/* Icon alignment (for iconify icons) */
+.iconify {
+  vertical-align: middle;
+  font-size: 1.3em;
+  margin-right: 6px;
+}
+
+/* Custom black link style for contact row only */
+.contact-links a {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.contact-links a:hover {
+  text-decoration: underline !important;
+}

@@ -1,9 +1,77 @@
 ---
-title: "website"
+format:
+  html:
+    css: styles.css
+    toc: false
 ---
 
-Cem ÖZEN
+<div style="text-align: center;">
+  <img src="https://github.com/cemoze.png" alt="Cem Özen" width="160" style="border-radius: 50%; margin-bottom: 1em;" />
+  <h1 style="margin-top: 0;">Cem Özen</h1>
+  <p style="font-size: 1.2em; margin-bottom: 0.5em;">
+    Data/Atmospheric Scientist · Renewable Energy Forecaster
+  </p>
+</div>
 
-This is a Quarto website.
+<p class="contact-links" style="text-align: center; font-size: 1.1em;">
+{{< iconify simple-icons linkedin >}} [LinkedIn](https://www.linkedin.com/in/cemozenn/) &nbsp;|&nbsp;
+{{< iconify simple-icons github >}} [GitHub](https://github.com/cemoze) &nbsp;|&nbsp;
+{{< iconify ic baseline-email >}} [ozenc@itu.edu.tr](mailto:ozenc@itu.edu.tr)
+</p>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
+
+I'm a computational meteorologist with a PhD in Atmospheric Sciences, focused on applying meteorological data and machine learning to the energy sector.
+
+I specialize in building end-to-end forecasting systems using ECMWF data (HRES, Subseasonal, Seasonal), bias correction methods, and climate-energy indicators across Europe.
+
+Currently, I work at **Vitus Commodities**, delivering operational wind, solar, and demand forecasts for trading strategies — ranging from **hourly to seasonal timescales**.
+
+## What I Work On
+
+- **Wind & Solar Forecasts**  
+  Forecasting capacity factors using ensemble and deterministic weather models.
+
+- **Climate Dashboards**  
+  Shiny and Quarto-based apps showing trends from ERA5 and CMIP6 datasets.
+
+- **Machine Learning in Meteorology**  
+  H2O AutoML, modeltime, quantile mapping, and ensemble blending techniques.
+
+- **Energy Market Indexes**  
+  Meteorology-based HDD, CDD, wind power index, and temperature-weighted demand models.
+
+## CV Highlights
+
+- 🎓 **PhD in Atmospheric Sciences**, Istanbul Technical University  
+  Specialized in wind energy forecast from hours up to months.
+
+- 💼 **Professional Experience**  
+  - Developed operational forecasting systems  
+  - Led wind resource assessments, SCADA analysis, and performance evaluation  
+  - Built dynamic R dashboards connected to wind farm SCADA systems  
+  - Researched climate change effects on wind energy investments
+
+- 🛠️ **Technical Skills**  
+  - *Programming languages:* R, Python, Bash,  SQL
+  - *Machine learning frameworks:* H2O, Keras, Torch
+  - *Wind resource assessment tools:* WindPro, Meteodyn, Windographer, PVSyst
+  - *Atmospheric science & meteorology:* WRF, RegCM, CDO
+  - *GIS:* QGIS, GlobalMapper, terra library of R
+
+- 📚 **Selected Projects**  
+  - TUBITAK-funded climate modeling study (2014–2015)  
+  - TUJJB-funded regional climate projection (2018–2020)
+
+- 📘 **Teaching & Courses**  
+  Delivered hands-on R courses on energy markets and forecasting.
+
+- 🌐 **Languages**  
+  - Turkish (native)  
+  - English (professional proficiency; e-YDS: 82.5)
+
+[Download Full CV (PDF)](https://drive.google.com/your-cv-link)
+
+## Coming Soon
+
+I'll be sharing dashboards, project links, and tools I've built — stay tuned.
