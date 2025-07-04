@@ -53,18 +53,18 @@ Specialized in wind energy forecast from hours up to months.
   - Researched climate change effects on wind energy investments
 
 **Technical Skills**  
-  - *Programming languages:* R, Python, Bash,  SQL
-  - *Machine learning frameworks:* H2O, Keras, Torch
-  - *Wind resource assessment tools:* WindPro, Meteodyn, Windographer, PVSyst
-  - *Atmospheric science & meteorology:* WRF, RegCM, CDO
-  - *GIS:* QGIS, GlobalMapper, terra library of R
+*Programming languages:* R, Python, Bash,  SQL  
+*Machine learning frameworks:* H2O, Keras, Torch  
+*Wind resource assessment tools:* WindPro, Meteodyn, Windographer, PVSyst  
+*Atmospheric science & meteorology:* WRF, RegCM, CDO  
+*GIS:* QGIS, GlobalMapper, terra library of R  
 
 **Teaching & Courses**  
   Delivered hands-on R courses on energy markets and forecasting.
 
 **Languages**  
-  - Turkish (native)  
-  - English (proficiency)
+Turkish (native)  
+English (proficiency)
 
 **CV (Google Drive Link)**  
 <a href="https://drive.google.com/cemozen-cv-link" style="color: black; text-decoration: underline;" target="_blank">Download Full CV (PDF)</a>

@@ -51,3 +51,16 @@ h1, h2, h3 {
 .aa-SubmitIcon {
   color: white !important;
 }
+
+/* Ensure mobile (hamburger) menu has black background and white text */
+.navbar-collapse {
+  background-color: black !important;
+}
+
+.navbar-collapse .nav-link {
+  color: white !important;
+}
+
+.navbar-collapse .nav-link:hover {
+  color: #cccccc !important; /* Optional: lighter hover color */
+}
