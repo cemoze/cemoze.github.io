@@ -47,7 +47,7 @@ Forecasting energy prices and the system's net direction which is essential for 
 Specialized in wind energy forecast from hours up to months.
 
 **Professional Experience**  
-  - Developed operational forecasting systems  
+  - Developed operational forecasting systems both for wind and solar
   - Led wind resource assessments, SCADA analysis, and performance evaluation  
   - Built dynamic R dashboards connected to wind farm SCADA systems  
   - Researched climate change effects on wind energy investments
