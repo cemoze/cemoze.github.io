@@ -38,3 +38,16 @@ h1, h2, h3 {
 .contact-links a:hover {
   text-decoration: underline !important;
 }
+
+#quarto-header>nav {
+  background-color: black;
+  height: 56px;
+}
+
+.navbar, .navbar .navbar-brand, .navbar .nav-link {
+  color: white !important;
+}
+
+.aa-SubmitIcon {
+  color: white !important;
+}
