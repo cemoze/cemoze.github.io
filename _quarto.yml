@@ -13,8 +13,6 @@ website:
         text: Home
       - href: climateforecastory.qmd
         text: Climate Forecastory
-  page-footer:
-    center: "© 2025 Cem Özen · All rights reserved"
 
 format:
   html:

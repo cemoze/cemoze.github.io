@@ -21,57 +21,50 @@ format:
 
 ## About Me
 
-I'm a computational meteorologist with a PhD in Atmospheric Sciences, focused on applying meteorological data and machine learning to the energy sector.
+I'm a computational meteorologist with a PhD in Atmospheric Sciences, focused on applying meteorological data and machine learning to the energy sector. I have also an extensive experience in wind resource assessment in different corporate companies in leading positions.
 
-I specialize in building end-to-end forecasting systems using ECMWF data (HRES, Subseasonal, Seasonal), bias correction methods, and climate-energy indicators across Europe.
+I specialize in building end-to-end forecasting systems using meteorological data (ECMWF HRES, Subseasonal, Seasonal, DWD ICON-EU, ICON-D2, NOAA-GFS), bias correction methods by using hindcasts/reforecasts, and climate-energy indicators across Europe.
 
-Currently, I work at **Vitus Commodities**, delivering operational wind, solar, and demand forecasts for trading strategies — ranging from **hourly to seasonal timescales**.
+Currently, I work at **Vitus Commodities**, delivering operational wind, solar, and demand forecasts and weather related indexes for trading strategies — ranging from **hourly to seasonal timescales**.
 
 ## What I Work On
 
-- **Wind & Solar Forecasts**  
-  Forecasting capacity factors using ensemble and deterministic weather models.
+**Wind, Solar, Energy Demand Forecasts**  
+Forecasting renewable energy sources and energy demand using ensemble and deterministic weather models.
 
-- **Climate Dashboards**  
-  Shiny and Quarto-based apps showing trends from ERA5 and CMIP6 datasets.
+**Energy Market Indices**  
+Generating meteorological indexes spcealized for energy trading.
 
-- **Machine Learning in Meteorology**  
-  H2O AutoML, modeltime, quantile mapping, and ensemble blending techniques.
+**Climate Indices**  
+Climate model outputs and its impact on the energy markets.
 
-- **Energy Market Indexes**  
-  Meteorology-based HDD, CDD, wind power index, and temperature-weighted demand models.
+**Energy Price & System Direction**  
+Forecasting energy prices and the system's net direction which is essential for energy trading and reducing imbalance costs.
 
 ## CV Highlights
 
-- **PhD in Atmospheric Sciences**, Istanbul Technical University  
-  Specialized in wind energy forecast from hours up to months.
+**PhD in Atmospheric Sciences**, Istanbul Technical University  
+Specialized in wind energy forecast from hours up to months.
 
-- **Professional Experience**  
+**Professional Experience**  
   - Developed operational forecasting systems  
   - Led wind resource assessments, SCADA analysis, and performance evaluation  
   - Built dynamic R dashboards connected to wind farm SCADA systems  
   - Researched climate change effects on wind energy investments
 
-- **Technical Skills**  
+**Technical Skills**  
   - *Programming languages:* R, Python, Bash,  SQL
   - *Machine learning frameworks:* H2O, Keras, Torch
   - *Wind resource assessment tools:* WindPro, Meteodyn, Windographer, PVSyst
   - *Atmospheric science & meteorology:* WRF, RegCM, CDO
   - *GIS:* QGIS, GlobalMapper, terra library of R
 
-- **Selected Projects**  
-  - TUBITAK-funded climate modeling study (2014–2015)  
-  - TUJJB-funded regional climate projection (2018–2020)
-
-- **Teaching & Courses**  
+**Teaching & Courses**  
   Delivered hands-on R courses on energy markets and forecasting.
 
-- **Languages**  
+**Languages**  
   - Turkish (native)  
-  - English (professional proficiency; e-YDS: 82.5)
+  - English (proficiency)
 
-[Download Full CV (PDF)](https://drive.google.com/your-cv-link)
-
-## Coming Soon
-
-I'll be sharing dashboards, project links, and tools I've built — stay tuned.
+**CV (Google Drive Link)**  
+<a href="https://drive.google.com/cemozen-cv-link" style="color: black; text-decoration: underline;" target="_blank">Download Full CV (PDF)</a>
