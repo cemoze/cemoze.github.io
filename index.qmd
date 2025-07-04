@@ -66,5 +66,7 @@ Specialized in wind energy forecast from hours up to months.
 Turkish (native)  
 English (proficiency)
 
+<!--
 **CV (Google Drive Link)**  
 <a href="https://drive.google.com/cemozen-cv-link" style="color: black; text-decoration: underline;" target="_blank">Download Full CV (PDF)</a>
+-->
