@@ -57,15 +57,16 @@ Forecasting energy prices and the system's net direction which is essential for 
 Specialized in wind energy forecast from hours up to months.
 
 **Professional Experience**  
-  - Developed operational forecasting systems both for wind and solar
+  - Developed operational forecasting systems both for wind and solar  
   - Led wind resource assessments, SCADA analysis, and performance evaluation  
+  - Led an energy trading team optimizing wind and solar portfolios to reduce imbalance penalties  
   - Built dynamic R dashboards connected to wind farm SCADA systems  
   - Researched climate change effects on wind energy investments
 
 **Technical Skills**  
 *Programming languages:* R, Python, Bash,  SQL  
 *Machine learning frameworks:* H2O, Keras, Torch  
-*Wind resource assessment tools:* WindPro, Meteodyn, Windographer, PVSyst  
+*Wind resource assessment tools:* WindPro, Meteodyn, Windographer, WAsP, PVSyst  
 *Atmospheric science & meteorology:* WRF, RegCM, CDO  
 *GIS:* QGIS, GlobalMapper, terra library of R  
 
