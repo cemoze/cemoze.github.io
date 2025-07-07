@@ -64,3 +64,13 @@ h1, h2, h3 {
 .navbar-collapse .nav-link:hover {
   color: #cccccc !important; /* Optional: lighter hover color */
 }
+
+.black-link {
+  color: black !important;
+  text-decoration: none !important;
+  font-weight: bold !important;
+}
+
+.black-link:hover {
+  text-decoration: underline !important;
+}

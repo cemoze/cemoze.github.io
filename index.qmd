@@ -27,6 +27,16 @@ I specialize in building end-to-end forecasting systems using meteorological dat
 
 Currently, I work at **Vitus Commodities**, delivering operational wind, solar, and demand forecasts and weather related indexes for trading strategies — ranging from **hourly to seasonal timescales**.
 
+## Dashboards
+
+**[<span class="black-link">Climate Forecastory</span>](https://ozencem.com/climate-forecastory/)**  
+An interactive dashboard that visualizes climate change and renewable energy potential across Europe — designed specifically for energy analysts, traders, and researchers.  
+
+The dashboard integrates state-of-the-art climate projections (RCP 2.6, 4.5, 8.5) with customized indicators like wind capacity factor, solar potential, total precipitation, and wind speed at 100m. Users can explore how these variables evolve over time and geography, compare scenarios, and analyze long-term trends at any location.
+
+> 🔗 [<span class="black-link">Launch Climate Forecastory Dashboard</span>](https://ozencem.com/climate-forecastory/)
+
+
 ## What I Work On
 
 **Wind, Solar, Energy Demand Forecasts**  
@@ -38,7 +48,7 @@ Generating meteorological indexes spcealized for energy trading.
 **Climate Indices**  
 Climate model outputs and its impact on the energy markets.
 
-**Energy Price & System Direction**  
+**Energy Price & System Direction Forecasts**  
 Forecasting energy prices and the system's net direction which is essential for energy trading and reducing imbalance costs.
 
 ## CV Highlights

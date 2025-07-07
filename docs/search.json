@@ -18,13 +18,20 @@
     "href": "index.html#what-i-work-on",
     "title": "\nCem Özen\n",
     "section": "What I Work On",
-    "text": "What I Work On\nWind, Solar, Energy Demand Forecasts\nForecasting renewable energy sources and energy demand using ensemble and deterministic weather models.\nEnergy Market Indices\nGenerating meteorological indexes spcealized for energy trading.\nClimate Indices\nClimate model outputs and its impact on the energy markets.\nEnergy Price & System Direction\nForecasting energy prices and the system’s net direction which is essential for energy trading and reducing imbalance costs."
+    "text": "What I Work On\nWind, Solar, Energy Demand Forecasts\nForecasting renewable energy sources and energy demand using ensemble and deterministic weather models.\nEnergy Market Indices\nGenerating meteorological indexes spcealized for energy trading.\nClimate Indices\nClimate model outputs and its impact on the energy markets.\nEnergy Price & System Direction Forecasts\nForecasting energy prices and the system’s net direction which is essential for energy trading and reducing imbalance costs."
   },
   {
     "objectID": "index.html#cv-highlights",
     "href": "index.html#cv-highlights",
     "title": "\nCem Özen\n",
     "section": "CV Highlights",
-    "text": "CV Highlights\nPhD in Atmospheric Sciences, Istanbul Technical University\nSpecialized in wind energy forecast from hours up to months.\nProfessional Experience\n- Developed operational forecasting systems both for wind and solar - Led wind resource assessments, SCADA analysis, and performance evaluation\n- Built dynamic R dashboards connected to wind farm SCADA systems\n- Researched climate change effects on wind energy investments\nTechnical Skills\nProgramming languages: R, Python, Bash, SQL\nMachine learning frameworks: H2O, Keras, Torch\nWind resource assessment tools: WindPro, Meteodyn, Windographer, PVSyst\nAtmospheric science & meteorology: WRF, RegCM, CDO\nGIS: QGIS, GlobalMapper, terra library of R\nTeaching & Courses\nDelivered hands-on R courses on energy markets and forecasting.\nLanguages\nTurkish (native)\nEnglish (proficiency)\nCV (Google Drive Link)\nDownload Full CV (PDF)"
+    "text": "CV Highlights\nPhD in Atmospheric Sciences, Istanbul Technical University\nSpecialized in wind energy forecast from hours up to months.\nProfessional Experience\n- Developed operational forecasting systems both for wind and solar - Led wind resource assessments, SCADA analysis, and performance evaluation\n- Built dynamic R dashboards connected to wind farm SCADA systems\n- Researched climate change effects on wind energy investments\nTechnical Skills\nProgramming languages: R, Python, Bash, SQL\nMachine learning frameworks: H2O, Keras, Torch\nWind resource assessment tools: WindPro, Meteodyn, Windographer, PVSyst\nAtmospheric science & meteorology: WRF, RegCM, CDO\nGIS: QGIS, GlobalMapper, terra library of R\nTeaching & Courses\nDelivered hands-on R courses on energy markets and forecasting.\nLanguages\nTurkish (native)\nEnglish (proficiency)"
+  },
+  {
+    "objectID": "index.html#dashboards",
+    "href": "index.html#dashboards",
+    "title": "\nCem Özen\n",
+    "section": "Dashboards",
+    "text": "Dashboards\nClimate Forecastory\nAn interactive dashboard that visualizes climate change and renewable energy potential across Europe — designed specifically for energy analysts, traders, and researchers.\nThe dashboard integrates state-of-the-art climate projections (RCP 2.6, 4.5, 8.5) with customized indicators like wind capacity factor, solar potential, total precipitation, and wind speed at 100m. Users can explore how these variables evolve over time and geography, compare scenarios, and analyze long-term trends at any location.\n\n🔗 Launch Climate Forecastory Dashboard"
   }
 ]
